@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Credit Card Scanner</string>
+    <string name="button">Scan</string>
+    <string name="expiry">Expiry</string>
+    <string name="cvv">CVV</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="card_holder">Cardholder Name</string>
+</resources>
